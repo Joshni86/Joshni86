@@ -1,10 +1,12 @@
 [![MasterHead](https://as2.ftcdn.net/v2/jpg/05/67/40/31/1000_F_567403147_WjV5fqGRjjPUkBOnXaaREKgVjZMC12M7.jpg)]
-<h1 align="center">Good day to you my fellow human being!
- it's a pleasure to have you here!</h1>  
+<h1 align="center">Good day to you my fellow human being!</h1>
+<br>
+<h1> It's a pleasure to have you here!</h1>  
 <h3 align="center">This is just someone tryna learn all the things this big world can provide...</h3>  
   <img align="right" alt="Codin" width=400 src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"/>
-🌱 I’m currently learning **Linux, Java, Next.js, Flutter, Cyber security, and AI**  
-⚡ Fun fact **I like to chill with God:)**  
+🌱 I’m currently learning Linux, Java, Next.js, Flutter, Cyber security, and AI
+<br>
+⚡ Fun fact I like to chill with God:)
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
