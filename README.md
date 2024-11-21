@@ -5,7 +5,7 @@
 <h3 align="center">This is just someone tryna learn all the things this big world can provide...</h3>  
   <img align="right" alt="Codin" width=400 src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"/>
 🌱 I’m currently learning:
-    *Linux, Java, Next.js, Flutter, Cyber security, and AI*
+    **Linux, Java, Next.js, Flutter, Cyber security, and AI**
 <br>
 ⚡ Fun fact:  *I like to chill with God:)*
   
