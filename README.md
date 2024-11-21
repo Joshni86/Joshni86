@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYZbklVA2nBC_heNFz3NlEEJsKBiZDUhgL4g&s)]
+[![MasterHead](https://as2.ftcdn.net/v2/jpg/05/67/40/31/1000_F_567403147_WjV5fqGRjjPUkBOnXaaREKgVjZMC12M7.jpg)]
 <h1 align="center">Good day to you my fellow human being! it's a pleasure to have you here! Joshni Rohina J</h1>  
 <h3 align="center">This is just someone tryna learn all the things this big world can provide...</h3>  
   <img align="right" alt="Codin" width=400 src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"/>
