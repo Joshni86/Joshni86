@@ -19,4 +19,9 @@
   <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshni86&show_icons=true&locale=en&layout=compact" alt="joshni86" /></p>  
   <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshni86&" alt="joshni86" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshni86&" alt="joshni86" /></p>
+ -->
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@jorostudz/30-nites-of-code)  
+  ![@jorostudz #30NitesOfCode](https://www.codedex.io/api/petStatus?user=jorostudz)
