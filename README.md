@@ -11,7 +11,7 @@
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
-<a href="https://linkedin.com/in/joshni rohina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshni rohina" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/joshni-rohina-j-cse-dept-3161b8336/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshni rohina" height="30" width="40" /></a>  
 </p>  
   <br>
 <h3 align="left">Languages and Tools:</h3>  
@@ -19,8 +19,8 @@
   <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshni86&show_icons=true&locale=en&layout=compact" alt="joshni86" /></p>  
   <br>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshni86&" alt="joshni86" /></p>
- -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshni86&" alt="joshni86" /></p>
+
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@jorostudz/30-nites-of-code)  
